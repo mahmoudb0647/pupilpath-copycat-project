@@ -1,3 +1,22 @@
 body {
-  background:  linear-gradient(90deg, #1A6FB5, #783C9E);;
+  background:  linear-gradient(90deg, #1A6FB5, #783C9E);
+  z-index:1;
+}
+.title {
+    width: 400px;
+    position:relative;
+    left: 300px;
+    top:20px;
+}
+.box {
+    z-index:2;
+    background: #dcdcdc;
+    border: 2px solid #dcdcdc;
+    border-radius: 5px;
+    opacity: 0.5;
+    position:relative;
+    left:500px;
+    top: 500px;
+    
+   
 }
