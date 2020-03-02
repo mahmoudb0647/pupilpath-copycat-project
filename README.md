@@ -1,4 +1,4 @@
-# pupilpath-copycat-project
+# Pupilpath-Copycat-Project
 ## [Google Doc](https://docs.google.com/document/d/13zPwNgttNzKjLBX3Atcj436GZbPoJhw8o4-c2C5NY1M/edit)
 
 ## [My completed site](https://mahmoudb0647.github.io/pupilpath-copycat-project/)
