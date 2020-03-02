@@ -1,1 +1,6 @@
 # pupilpath-copycat-project
+## [Google Doc](https://docs.google.com/document/d/13zPwNgttNzKjLBX3Atcj436GZbPoJhw8o4-c2C5NY1M/edit)
+
+## [My completed site](https://mahmoudb0647.github.io/pupilpath-copycat-project/)
+
+##### Reflection: When assigned the project, I was hesistant because I wasn't very confident in my HTML/CSS skills. I automatically chose an easy site from the list although they all seemed challenging to me. The pupilpath site seemed simple enough for me to attempt. I visited the site and studied the different elements it contains that I have to recreate, I also used google's developer tools to give me more of an insight on the structure of the site. At that point I was more aware of what skills I needed to learn and what skills I am confident I can perform. I focused on the skills I needed to learn which were buttons and linear Gradients; I used [FreeCodeCamp](https://www.freecodecamp.org/learn/) as well as the lessons my classmates created on those specific skills. I was then able to implement them effectively in the site without any difficulty. Through this process I learned those two CSS skills, and I am also now more self aware of my HTML/CSS skills which will definitely help me in future projects such as the freedom project.
