@@ -3,7 +3,7 @@ body {
   z-index:1;
 }
 a:link {
-  color: White;
+  color: white;
   background-color: transparent;
   text-decoration: none;
 }
@@ -17,6 +17,7 @@ a:hover {
     left:750px;
     bottom:120px;
     font-size:14px;
+    color: white;
     
 }
 .link2{
@@ -25,6 +26,7 @@ a:hover {
     bottom:120px;
     left:770px;
     font-size:14px;
+    color: white;
 }
 .link3{
     z-index:3;
@@ -32,6 +34,7 @@ a:hover {
     bottom:80px;
     left:540px;
     font-size:14px;
+    color: white;
 }
 .link4{
     z-index:3;
@@ -39,7 +42,7 @@ a:hover {
     left:375px;
     bottom:50px;
     font-size:14px;
-    
+    color: white;
 }
 .link5{
     z-index:3;
@@ -47,7 +50,7 @@ a:hover {
     left:270px;
     top:15px;
     font-size:14px;
-    
+    color: white;
 }
 
 .title {
